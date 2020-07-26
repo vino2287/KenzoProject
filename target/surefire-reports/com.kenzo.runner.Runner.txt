@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kenzo.runner.Runner
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 65.703 s - in com.kenzo.runner.Runner
